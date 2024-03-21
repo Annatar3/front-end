@@ -27,7 +27,7 @@ function App() {
     <div className="container">
       <h1 className="heading">Welcome to the Two-Tier Application</h1>
       <div className="content">
-        <p className="info">You are viewing the changed frontend.yle</p>
+        <p className="info">You are viewing the changed frontylend.</p>
         <button className="button" onClick={handleClick} disabled={loading}>
           {loading ? 'Loading...' : 'Send Request'}
         </button>
