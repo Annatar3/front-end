@@ -25,7 +25,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="heading">Version 4</h1>
+      <h1 className="heading">Version 5</h1>
       <div className="content">
         <p className="info">You are viewing the changed frontylend.</p>
         <button className="button" onClick={handleClick} disabled={loading}>
